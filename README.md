@@ -18,16 +18,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### :zap: Actividad Reciente
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
-
 <!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RogC0d3&icon=0&color=0)](https://visitcount.itsvg.in)
